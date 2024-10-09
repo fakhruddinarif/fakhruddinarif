@@ -8,7 +8,7 @@
 
 - 🏫 I am student at **Politeknik Negeri Malang**
 
-- 🌱 I am currently learning **Go**
+- 🌱 I am currently learning **Go** and **Flutter**
 
 - 📫 How to reach me **muhfakhruddinarif30@gmail.com**
 
